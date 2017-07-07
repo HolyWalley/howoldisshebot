@@ -1,5 +1,15 @@
-Hi. It's my telegram bot for Rubizza.
+How old is she bot?
+=====================
 
-This bot can help you to to determine the age of someone in a humorous way.
+to Run
+-----------------------------------
 
-Bot is using Microsoft Face Api.
+to start you need 'ms azure token' and 'tg bot token' (***Look in .env.example***)
+
+make your .env file like example with using your tokens
+
+```ruby
+ruby detectsex.rb
+```
+
+enjoy!
